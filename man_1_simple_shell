@@ -1,0 +1,54 @@
+./" Vshell man page
+./"
+./"
+./"
+./"
+
+.TH Simple_Shell Program Vshell "November 24 2021" "v.1" Library functions manual
+
+.SH vshell
+vshell is our small piece program shell.
+.SH""
+.B vshell-
+custom version of simple_shell.
+
+.SH SYPNOSIS
+.SH""
+
+kjdlasjdjsaldksa
+dlsajdljsajdlksaj
+./"
+./"
+./"
+.SH Description
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+./"
+./"
+.SS Compilation
+.P
+.RS
+gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o vshell
+.SH Testing
+
+.RS
+our shell should work like this in interactive mode:
+$ ./hsh
+($) /bin/ls
+vshell main_prompt.c shell.c
+($)
+($) exit
+$
+
+
+
+.SH"AUTHORS"
+.SH""
+Luis Reyes & Sebastian Santiago
+./"
+.SH
+.B Email
+.PP
+2613@holbertonschool.com
+
